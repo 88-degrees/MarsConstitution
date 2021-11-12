@@ -9,3 +9,7 @@ We the people of the Martian, in order to form a more perfect planet, establish 
 ## Article 1: Living Rights
 
 All lifes are equal and have the same rights. Any discrimination on the grounds of their origin, sex or beliefs is prohibited.
+
+## Article 2: Legislative Power
+
+Elected representatives in the Mars, whether members of a parliament, assembly, or congress, are there to serve the creatures.
